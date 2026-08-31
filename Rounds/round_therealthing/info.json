@@ -4,7 +4,7 @@
   "file": "round_therealthing",
   "prefab": "round_therealthing",
   "skybox": "Default-Skybox",
-  "ambientMode": "0",
+  "ambientMode": "1",
   "ambientLight": "1.212 1.227 1.259 1",
   "reflectionIntensity": "1",
   "fog": "false",
