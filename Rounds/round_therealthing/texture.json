@@ -1,0 +1,6 @@
+﻿{
+  "ENV_S01_ConveyorBelt_A_AM": "textures\\ENV_S01_ConveyorBelt_A_AM.png",
+  "ENV_S01_ConveyorBelt_B_AM": "textures\\ENV_S01_ConveyorBelt_B_AM.png",
+  "ENV_Moving_Sticks_Static_AM": "textures\\ENV_Moving_Sticks_Static_AM.png",
+  "ENV_FloorFall_Hexagons_AM": "textures\\ENV_FloorFall_Hexagons_AM.png"
+}
