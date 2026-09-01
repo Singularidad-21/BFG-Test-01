@@ -2,5 +2,10 @@
   "ENV_S01_ConveyorBelt_A_AM": "textures\\ENV_S01_ConveyorBelt_A_AM.png",
   "ENV_S01_ConveyorBelt_B_AM": "textures\\ENV_S01_ConveyorBelt_B_AM.png",
   "ENV_Moving_Sticks_Static_AM": "textures\\ENV_Moving_Sticks_Static_AM.png",
-  "ENV_FloorFall_Hexagons_AM": "textures\\ENV_FloorFall_Hexagons_AM.png"
+  "ENV_FloorFall_Hexagons_AM": "textures\\ENV_FloorFall_Hexagons_AM.png",
+  "ENV_spinningPlatform_AM": "textures\\ENV_spinningPlatform_AM.png",
+  "ENV_spinningPanels_AM": "textures\\ENV_spinningPanels_AM.png",
+  "ENV_SpinningHammer_AM": "textures\\ENV_SpinningHammer_AM.png",
+  "ENV_WreckingBall_AM": "textures\\ENV_WreckingBall_AM.png",
+  "ENV_S01_Drums_AM": "textures\\ENV_S01_Drums_AM.png"
 }
