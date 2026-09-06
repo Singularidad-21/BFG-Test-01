@@ -7,5 +7,11 @@
   "ENV_spinningPanels_AM": "textures\\ENV_spinningPanels_AM.png",
   "ENV_SpinningHammer_AM": "textures\\ENV_SpinningHammer_AM.png",
   "ENV_WreckingBall_AM": "textures\\ENV_WreckingBall_AM.png",
-  "ENV_S01_Drums_AM": "textures\\ENV_S01_Drums_AM.png"
+  "ENV_S01_Drums_AM": "textures\\ENV_S01_Drums_AM.png",
+  "ENV_S04_Button_AM": "textures\\ENV_S04_Button_AM.png",
+  "ENV_S01_Vanilla_MovableBoxes_AM": "textures\\ENV_S01_Vanilla_MovableBoxes_AM.png",
+  "VFX_FadeRing3_B": "textures\\VFX_FadeRing3_B.png",
+  "VFX_Ring_B": "textures\\VFX_Ring_B.png",
+  "PRP_S01_Flipper_AM": "textures\\PRP_S01_Flipper_AM.png",
+  "ENV_S01_Fans_AM": "textures\\ENV_S01_Fans_AM.png"
 }
