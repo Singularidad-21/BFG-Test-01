@@ -13,5 +13,6 @@
   "VFX_FadeRing3_B": "textures\\VFX_FadeRing3_B.png",
   "VFX_Ring_B": "textures\\VFX_Ring_B.png",
   "PRP_S01_Flipper_AM": "textures\\PRP_S01_Flipper_AM.png",
-  "ENV_S01_Fans_AM": "textures\\ENV_S01_Fans_AM.png"
+  "ENV_S01_Fans_AM": "textures\\ENV_S01_Fans_AM.png",
+  "ENV_S01_PunchingGlove_MAT_AM": "textures\\ENV_S01_PunchingGlove_MAT_AM.png"
 }
